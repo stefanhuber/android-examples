@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:visible="true"
+        android:title="@string/button_open_camera"
+        android:checkable="false"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:id="@+id/item_camera"
+        android:enabled="true" />
+    <item android:title="@string/button_explicit_intent"
+        android:id="@+id/item_explicit_intent" />
+    <item android:title="@string/button_implicit_intent"
+        android:id="@+id/item_implicit_intent" />
+</menu>

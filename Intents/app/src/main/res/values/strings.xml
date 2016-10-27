@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Intents</string>
+
+    <string name="activity_main">Main Activity</string>
+    <string name="activity_explicit_intent">Explicit Intent Activity</string>
+    <string name="activity_for_result">For Result Activity</string>
+
+    <string name="button_explicit_intent">Explicit Intent</string>
+    <string name="button_implicit_intent">Implicit Intent</string>
+    <string name="button_for_result">For Result Intent</string>
+    <string name="button_open_camera">Open Camera</string>
+</resources>
