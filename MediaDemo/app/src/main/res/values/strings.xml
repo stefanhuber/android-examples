@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Media Demo</string>
+    <string name="button_record_activity">Record Audio</string>
+    <string name="button_tts_activity">Text to Speach</string>
+    <string name="button_camera_activity">Camera</string>
+    <string name="button_start_recording">Start Recording</string>
+    <string name="button_stop_recording">Stop Recording</string>
+    <string name="button_start_playing">Start Playing</string>
+    <string name="button_stop_playing">Stop Playing</string>
+</resources>
